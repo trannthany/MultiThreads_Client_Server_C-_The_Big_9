@@ -1,4 +1,4 @@
-# MultiThreads_Client_Server_C-_The_Big_9
+# MultiThreads_Client_Server_C#_The_Big_9
 
 ## Game rules
 10, J, Q, K = 0;
