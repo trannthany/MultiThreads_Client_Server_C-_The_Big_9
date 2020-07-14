@@ -1,0 +1,15 @@
+C:\Users\User\Documents\C#\CardLib2\obj\Debug\CardLib2.csprojAssemblyReference.cache
+C:\Users\User\Documents\C#\CardLib2\bin\Debug\CardLib2.dll
+C:\Users\User\Documents\C#\CardLib2\bin\Debug\CardLib2.pdb
+C:\Users\User\Documents\C#\CardLib2\obj\Debug\CardLib2.dll
+C:\Users\User\Documents\C#\CardLib2\obj\Debug\CardLib2.pdb
+C:\Users\sigma\Desktop\C#\CardLib2\bin\Debug\CardLib2.dll
+C:\Users\sigma\Desktop\C#\CardLib2\bin\Debug\CardLib2.pdb
+C:\Users\sigma\Desktop\C#\CardLib2\obj\Debug\CardLib2.csprojAssemblyReference.cache
+C:\Users\sigma\Desktop\C#\CardLib2\obj\Debug\CardLib2.dll
+C:\Users\sigma\Desktop\C#\CardLib2\obj\Debug\CardLib2.pdb
+C:\Users\kappa\Thany_C#\Project\CardLib2\bin\Debug\CardLib2.dll
+C:\Users\kappa\Thany_C#\Project\CardLib2\bin\Debug\CardLib2.pdb
+C:\Users\kappa\Thany_C#\Project\CardLib2\obj\Debug\CardLib2.dll
+C:\Users\kappa\Thany_C#\Project\CardLib2\obj\Debug\CardLib2.pdb
+C:\Users\kappa\Thany_C#\Project\CardLib2\obj\Debug\CardLib2.csprojAssemblyReference.cache
